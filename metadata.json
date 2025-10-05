@@ -1,0 +1,5 @@
+{
+  "name": "Generator Resep AI",
+  "description": "Aplikasi web untuk menghasilkan resep masakan dalam Bahasa Indonesia berdasarkan bahan-bahan yang Anda miliki, ditenagai oleh Gemini API.",
+  "requestFramePermissions": []
+}
